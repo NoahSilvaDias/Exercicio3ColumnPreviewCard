@@ -1,0 +1,107 @@
+header{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 13rem;
+}
+
+#buttonSedans{
+    border-radius: 2rem;
+    color: #FFFFFF;
+    background-color: transparent;
+    padding: 0.9rem 2.2rem;
+    font-family: "Lexend Deca";
+    border:2.5px solid #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    margin-top: 8rem;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#buttonSuvs{
+    border-radius: 2rem;
+    color: #FFFFFF;
+    background-color: transparent;
+    padding: 0.9rem 2.2rem;
+    font-family: "Lexend Deca";
+    border:2.5px solid #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    margin-top: 8rem;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#buttonLuxury{
+    border-radius: 2rem;
+    color: #FFFFFF;
+    background-color: transparent;
+    padding: 0.9rem 2.2rem;
+    font-family: "Lexend Deca";
+    border:2.5px solid #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    margin-top: 8rem;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.container-sedans{
+    background-color: #e28525;
+    padding: 4rem 6rem 3rem 3rem;
+    border: 0;
+    border-radius: 0.6rem 0rem 0rem 0.6rem;
+}
+
+.container-suvs{
+    background-color: #016972;
+    padding: 4rem 6rem 3rem 3rem;
+}
+
+.container-luxury{
+    background-color: #00403f;
+    padding: 4rem 6rem 3rem 3rem;
+    border-radius: 0rem 0.6rem 0.6rem 0rem;
+}
+
+#Sedans{
+    color: #FFFFFF;
+    font-family: 'Big Shoulders Display';
+    font-size: 40px;
+}
+
+#Suvs{
+    color: #FFFFFF;
+    font-family: 'Big Shoulders Display';
+    font-size: 40px;
+}
+
+#Luxury{
+    color: #FFFFFF;
+    font-family: 'Big Shoulders Display';
+    font-size: 40px;
+}
+
+#Sedans-P{
+    color: #FFFFFF;
+    font-family: "Lexend Deca";
+    line-height: 28px;
+    font-weight: 300;
+}
+
+#Suvs-P{
+    color: #FFFFFF;
+    font-family: "Lexend Deca";
+    line-height: 28px;
+    font-weight: 300;
+}
+
+#Luxury-P{
+    color: #FFFFFF;
+    font-family: "Lexend Deca";
+    line-height: 28px;
+    font-weight: 300;
+}
